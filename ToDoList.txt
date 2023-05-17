@@ -1,0 +1,3 @@
+Laundry,High
+Dishes,Low
+Window Cleaning,High
